@@ -20,5 +20,12 @@ _Handler and Runnable_
 _Seek Bar and Progress Tracking_  
 
 ## Screenshots  
+![Untitled](https://github.com/HarshitYaadav/LanaDelRey_AndroidMusicPlayer/assets/121128576/625ece8c-6693-4793-a1d3-90ac24fe587d)  
+![sceenshot2](https://github.com/HarshitYaadav/LanaDelRey_AndroidMusicPlayer/assets/121128576/3b436cc9-a442-4d2d-9489-9c04e5882834)
+
+
+
+
+
 
 
