@@ -7,7 +7,7 @@ This is a simple music player app developed in Kotlin for Android. It allows use
 
 ## Features
 _Play and Pause functionality_  
-_Seek through the nusic using a seekbar_  
+_Seek through the music using a seekbar_  
 _Displays the duration of the music track_  
 
 ## Concept Learned
